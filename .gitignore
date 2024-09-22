@@ -1,0 +1,6 @@
+ECHO is on.
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
